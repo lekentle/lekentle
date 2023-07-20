@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lekentle
 - 👀 I’m living in the world that talks Java, Python, PHP, Javascript (nodejs, jquery, vue), and JSON, kubernetes, docker, Firebase, Microservices and AWS.
-- 🌱 I’m currently learning Flutter and Google Cloud
+- 🌱 I’m currently learning low code and graph databases
 - 💞️ I’m looking to collaborate on any Java ERP software
 - 📫 How to reach me lekentle dot mohlala at yahoo dot com
 
